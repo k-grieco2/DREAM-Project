@@ -19,12 +19,11 @@ title: DREAM Project Site
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     height: 55px;
-    float: left;
 }
 
 #markdown-toc li {
     flex: 1;
-    display: block;
+    display: inline, block;
     color: black;
     text-align: center;
 }
