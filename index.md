@@ -18,7 +18,7 @@ title: DREAM Project Site
     margin-left: 0;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
-    height 55px;
+    height: 55px;
 }
 
 #markdown-toc li {
@@ -26,6 +26,7 @@ title: DREAM Project Site
     display: block;
     color: black;
     text-align: center;
+    float: left;
 }
 
 #markdown-toc li a {
