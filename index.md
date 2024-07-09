@@ -6,6 +6,24 @@ title: DREAM Project Site
 * TOC
 {:toc}
 
+<style>
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
+
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    list-style: decimal;
+    display: inline-block;
+}
+</style>
+
 ## About Me
 
 I am pursuing a Master of Science in Computer Science at Northeastern University in Boston, Massachusetts, with an expected graduation date of August 2025. Prior to joining Northeastern, I earned a Bachelor of Arts in Mathematics and a Bachelor of Business Administration in Accounting from King's College in Wilkes-Barre, Pennsylvania.
