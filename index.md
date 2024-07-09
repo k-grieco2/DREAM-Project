@@ -46,6 +46,7 @@ title: DREAM Project Site
 </style>
 
 <br />
+
 ## About Me
 
 I am pursuing a Master of Science in Computer Science at Northeastern University in Boston, Massachusetts, with an expected graduation date of August 2025. Prior to joining Northeastern, I earned a Bachelor of Arts in Mathematics and a Bachelor of Business Administration in Accounting from King's College in Wilkes-Barre, Pennsylvania.
