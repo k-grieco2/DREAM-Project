@@ -16,6 +16,10 @@ title: DREAM Project Site
     list-style: decimal;
 }
 
+#markdown-toc li {
+    float: left;
+}
+
 #markdown-toc {
     border: 1px solid #aaa;
     padding: 1.5em;
@@ -28,7 +32,7 @@ title: DREAM Project Site
 
 I am pursuing a Master of Science in Computer Science at Northeastern University in Boston, Massachusetts, with an expected graduation date of August 2025. Prior to joining Northeastern, I earned a Bachelor of Arts in Mathematics and a Bachelor of Business Administration in Accounting from King's College in Wilkes-Barre, Pennsylvania.
 
-Email: [grieco.k@northeastern.edu](grieco.k@northeastern.edu)
+Contact: [https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Agrieco.k%40northeastern.edu](grieco.k@northeastern.edu)
 
 ## About My Advisor
 
