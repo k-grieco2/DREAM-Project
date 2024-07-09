@@ -23,7 +23,7 @@ title: DREAM Project Site
 
 #markdown-toc li {
     flex: 1;
-    display: inline, block;
+    display: inline;
     color: black;
     text-align: center;
 }
