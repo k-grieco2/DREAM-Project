@@ -36,7 +36,6 @@ title: DREAM Project Site
     padding: 14px 0; /* Adjust padding to center links vertically */
     text-decoration: none;
     text-transform:capitalize; /* Convert text to uppercase */
-    font-family:Georgia, 'Times New Roman', Times, serif
 }
 
 #markdown-toc li a:hover {
@@ -45,7 +44,7 @@ title: DREAM Project Site
     
 </style>
 
-<br />
+<br /><br />
 
 ## About Me
 
