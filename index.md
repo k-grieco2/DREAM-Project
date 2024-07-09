@@ -7,25 +7,41 @@ title: DREAM Project Site
 {:toc}
 
 <style>
-#markdown-toc::before {
-    content: "Contents";
-    font-weight: bold;
-}
 
 #markdown-toc ul {
-    list-style: decimal;
+    list-style: none;
+    marign: 0;
+    overflow: hidden;
+    background-color: white;
+    display: flex;
+    width: 100%;
+    margin-left: 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    height 55px;
 }
 
 #markdown-toc li {
-    float: left;
+    flex: 1;
+    display: block;
+    color: black;
+    text-align: center;
 }
 
-#markdown-toc {
-    border: 1px solid #aaa;
-    padding: 1.5em;
-    list-style: decimal;
-    display: inline-block;
+#markdown-toc li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 0; /* Adjust padding to center links vertically */
+    text-decoration: none;
+    text-transform:capitalize; /* Convert text to uppercase */
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
+
+#markdown-toc li a:hover {
+    background-color: #1111110e;
+}
+    
 </style>
 
 ## About Me
