@@ -17,10 +17,7 @@ avatar: https://k-grieco2.github.io/images/linkedin-profile.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: grieco.k@northeastern.edu
-  facebook:
-  flickr:
   rss: rss # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
