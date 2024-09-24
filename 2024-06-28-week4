@@ -1,0 +1,7 @@
+---
+layout: post
+title: Week 4 - Preliminary Experiments, Pt. 2
+---
+
+  This week, my primary focus was on running preliminary voice queries to determine the most effective and efficient way to convince Google’s algorithms to profile our accounts. Historical investigations showed that this should happen within a few days, however by the end of the week, we did not observe any results. On Friday, I began reviewing recent Google Privacy Policy updates and comparisons between account settings to ascertain whether a change in account default settings might be responsible for the lack of profiling activity occurring. 
+	Towards the end of the week, I also met with another student to begin reviewing the procedure for the Amazon experiments. Historically, the group has seen that Amazon only profiles users based upon what they add to their cart via voice assistant  (“Alexa, add running shoes to my cart”). The labels are also much complex than those of Google. Google makes assumptions about a user’s relationship status,  educational background, household income, employment industry, homeowner status, and parental status. Amazon profiles based on interests (i.e. Fashion, Sports, Beauty, etc.) and within these interests are sub-interests (i.e. Fashion: Athleisure, Sports: Basketball). The interest labels form a tree of unknown depth, and we will need to strategically determine which labels to target with our experiments moving forward.
